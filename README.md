@@ -1,1 +1,3 @@
-# platformer-basics
+••• Platformer scripts for Unity •••
+
+Demonstration video : 
