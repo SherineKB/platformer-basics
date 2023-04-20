@@ -1,3 +1,3 @@
 ••• Platformer scripts for Unity •••
 
-Demonstration video : 
+Demonstration video : https://youtu.be/svn-dkJx_FU
